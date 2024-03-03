@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StudCards-2211cs010539/static/css/main.d5289b2f.css",
+    "main.js": "/StudCards-2211cs010539/static/js/main.b38be32d.js",
+    "static/js/453.e4ab823d.chunk.js": "/StudCards-2211cs010539/static/js/453.e4ab823d.chunk.js",
+    "index.html": "/StudCards-2211cs010539/index.html",
+    "main.d5289b2f.css.map": "/StudCards-2211cs010539/static/css/main.d5289b2f.css.map",
+    "main.b38be32d.js.map": "/StudCards-2211cs010539/static/js/main.b38be32d.js.map",
+    "453.e4ab823d.chunk.js.map": "/StudCards-2211cs010539/static/js/453.e4ab823d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.b38be32d.js"
+  ]
+}
